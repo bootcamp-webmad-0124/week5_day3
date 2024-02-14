@@ -1,0 +1,34 @@
+{
+  "parks": [
+    {
+      "id": 1,
+      "title": "Port Aventura",
+      "description": "Module 2 project - Integrate a React app with backend."
+    },
+    {
+      "id": 2,
+      "title": "Six flags",
+      "description": "Create a full-stack application using MERN stack."
+    }
+  ],
+  "coasters": [
+    {
+      "id": 1,
+      "title": "Stampida",
+      "description": "Use Vite to create a basic React app",
+      "parkId": 1
+    },
+    {
+      "id": 2,
+      "title": "Fly metal",
+      "description": "Install React Router and setup routes",
+      "parkId": 2
+    },
+    {
+      "id": 3,
+      "title": "Shambala",
+      "description": "Install React Router and setup routes",
+      "parkId": 1
+    }
+  ]
+}
